@@ -2,6 +2,7 @@ Some Android exmamples
 =============
 
 Lession 1:
--Layout without xml
+
+- Layout without xml
   + TextView
   + Button
