@@ -1,4 +1,4 @@
-Some Android exmamples
+Some Android examples
 =============
 
 Lession 1:
