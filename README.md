@@ -10,10 +10,18 @@ Lession 1:
   + Basic Layout 3 : Button and ImageView (change image and scale-type of ImageView)
   + Basic Layout 4 : Radio and ImageView (Change background color of ImageView when user click on radio button)
   + Basic Layout 5 : Checkbox and Togle Button (Display and ChangeCheckListener, Customize background for button and EditText)
-Coming soon...
   + (Comming soon...) Basic Layout 6 : Customize TextView with Roboto Font (Font in ICS) 
   
 Lession 2:
+
+  + LinearLayout (layout_weight, layout_gravity, gravity)
+  + RelativeLayout (abow, below, align, toLeft, toRight)
+  + TableView, TableRow
+  + ScrollView (Only ScrollView)
+  + ScrollView2 (It combine Scrollview and TextView, LinearLayout)
+  + + (Comming soon...) Selection Control, Android Style, Theme 
+
+Coming soon...
 Lession 4:
 Lession 5:
 Lession 6:
