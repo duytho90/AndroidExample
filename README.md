@@ -19,7 +19,11 @@ Lession 2:
   + TableView, TableRow
   + ScrollView (Only ScrollView)
   + ScrollView2 (It combine Scrollview and TextView, LinearLayout)
-  + + (Comming soon...) Selection Control, Android Style, Theme 
+  + List Activity vs ListView with Activity
+  + GridView
+  + GridView with ImageAdapter
+  + GalleryView
+  + (Comming soon...) SpinControl, Android Style, Theme 
 
 Coming soon...
 Lession 4:
