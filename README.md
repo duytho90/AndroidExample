@@ -25,6 +25,13 @@ Lession 2:
   + GalleryView
   + (Comming soon...) SpinControl, Android Style, Theme 
 
+Lession 3: Fancy with Lists : customize adapter
+
+  + How to custome adapter? BaseAdapter.
+  + Improve performace with Static Class ViewHolder
+  + Using ConvertView to make performance better
+  + Create Simple BookShelf (List of book with cover, title and rating bar)
+
 Coming soon...
 Lession 4:
 Lession 5:
